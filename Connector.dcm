@@ -150,6 +150,12 @@ K audio jack receptacle stereo headphones phones TRS connector
 F ~
 $ENDCMP
 #
+$CMP AudioJack3_JY039-5P
+D Cliff JY039-5P Stereo Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
 $CMP AudioJack3_Switch
 D D Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)
 K audio jack receptacle stereo headphones connector
